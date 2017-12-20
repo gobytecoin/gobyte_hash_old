@@ -26,3 +26,4 @@ Credits
 * Module maintained by @eduffield https://github.com/darkcoinproject/xcoin-hash
 * Module maintained by @flare https://github.com/nightlydarkcoin/xcoin-hash
 * Module maintained by @vertoe https://github.com/vertoe/darkcoin_hash
+* Module maintained by @UdjinM6 https://github.com/dashpay/dash_hash
